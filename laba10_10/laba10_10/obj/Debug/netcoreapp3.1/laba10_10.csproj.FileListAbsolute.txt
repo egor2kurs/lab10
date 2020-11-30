@@ -1,0 +1,13 @@
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.exe
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.deps.json
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.runtimeconfig.json
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.runtimeconfig.dev.json
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.dll
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\bin\Debug\netcoreapp3.1\laba10_10.pdb
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.csprojAssemblyReference.cache
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.AssemblyInfoInputs.cache
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.AssemblyInfo.cs
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.csproj.CoreCompileInputs.cache
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.dll
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.pdb
+D:\лабы\2 курс\ООП\Лабы\laba10_10\laba10_10\obj\Debug\netcoreapp3.1\laba10_10.genruntimeconfig.cache
